@@ -1,6 +1,8 @@
-# qrry
+# qrry - dead simple URL to QR conversion.
 
-Dead simple URL to QR conversion.
+Detect URLs in a markdown files and insert inline QR codes below each link.
+
+For those that like physical copies of various documents, this simplifies looking up mentioned sources by scanning the code while you read.
 
 ```shell
 # Example markdown document written in Obsidian
